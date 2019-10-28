@@ -76,7 +76,7 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 60
 
 [[menu.main]]
-  url = "https://github.com/eclipsesource/ecore-glsp"
+  url = "https://github.com/eclipsesource/emfcloud"
   name = "GitHub"
   weight = 60
 
@@ -136,10 +136,10 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 30
   name = "github"
   pre = "fab fa-github"
-  url = "https://github.com/eclipsesource/ecore-glsp"
+  url = "https://github.com/eclipsesource/emfcloud"
 
 [[menu.footer_social]]
   weight = 30
-  name = "spektrum"
+  name = "spectrum"
   pre = "far fa-comments"
   url = "https://spectrum.chat/emfcloud"
