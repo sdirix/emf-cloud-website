@@ -81,9 +81,9 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 60
 
 [[menu.footer]]
-  url = "https://projects.eclipse.org/projects/ecd.sprotty"
-  name = "Sprotty"
-  weight = 60
+  url = "https://jsonforms.io"
+  name = "JSON Forms"
+  weight = 15
 
 [[menu.footer]]
   url = "https://eclipse.org/glsp"
