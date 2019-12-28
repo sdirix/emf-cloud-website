@@ -4,7 +4,13 @@ title = "EMF.cloud"
 theme = "syna"
 
 # Google Analytics tracking
-googleAnalytics = ""
+googleAnalytics = "UA-155083212-1"
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = true
+    useSessionStorage = true
 
 [outputs]
   home = ["HTML", "JSON"]
