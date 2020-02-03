@@ -7,4 +7,4 @@ weight = 50
   url = ""
 +++
 
-Please use our GitHub repositories to report features requests and bugs. Please see [here](https://www.eclipse.org/emfcloud/) for an overview of available components and repositories.
+Please use our GitHub repositories to report features requests and bugs. Please see [here](https://github.com/eclipse-emfcloud) for an overview of available components and repositories.
