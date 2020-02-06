@@ -82,7 +82,7 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 60
 
 [[menu.main]]
-  url = "https://github.com/eclipsesource/emfcloud"
+  url = "https://github.com/eclipse-emfcloud/emfcloud"
   name = "GitHub"
   weight = 60
 
