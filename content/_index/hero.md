@@ -14,12 +14,11 @@ subtitle = "EMF.cloud - evolve your modeling tools to the web!"
 
 [asset]
   image = "diagramanimated.gif"
-  width = "500px" # optional - will default to image width
-  height = "150px" # optional - will default to image height
+  width = "600px" # optional - will default to image width
 
 [[buttons]]
-  text = "Features"
-  url = "#features"
+  text = "Components"
+  url = "#components"
   color = "primary"
 
 [[buttons]]
