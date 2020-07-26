@@ -10,6 +10,7 @@ Please check the [Syna documentation](https://about.okkur.org/syna/docs/). The S
 ## Quick start
 
 ### Prerequisites
+In case you use GitPod (see button above) to contribute to the website, you can skip the prerequisites section.
 
   * Get submodules `git submodule init && git submodule update`
   * Install Hugo. You can skip step 1, 2 & 3 when you already have brew installed properly
