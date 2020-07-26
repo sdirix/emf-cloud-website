@@ -1,2 +1,7 @@
+image:
+  file: .gitpod.dockerfile
 ports:
   - port: 1313
+tasks:
+  - init: hugo
+    command: hugo server
