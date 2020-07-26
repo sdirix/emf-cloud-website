@@ -3,6 +3,7 @@ image:
 ports:
   - port: 1313
 tasks:
-  - init: hugo
+  - init: git submodule set-url themes/syna https://github.com/eclipsesource/syna && git submodule init && git submodule update && git submodule set-url themes/syna git@github.com:eclipsesource/emf-cloud-website.git && hugo
     command: hugo server
+
     
